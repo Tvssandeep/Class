@@ -2,3 +2,4 @@ Hi Hello
 Welcome to Devops
 How are you
 Welcome to World
+Devops contains different type of tools which enables organization to do fatser,frequent releases.
